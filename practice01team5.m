@@ -1,3 +1,5 @@
+% USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+% CODED BY:
 % Laura Belizón Merchán              100.452.273
 % Jorge Lázaro Ruiz                  100.452.172
 % Jesús Salvador Martínez Alcaide    100.452.289
